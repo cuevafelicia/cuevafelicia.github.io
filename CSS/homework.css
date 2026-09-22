@@ -82,16 +82,11 @@ h6 { font-size: 1.125rem; }
     background-color: #E5446D;
     border-color:#E5446D;
   }
-.carousel-wrapper {
-  padding-left: 125px;
-  padding-right: 125px;
-}
-
-.carousel-wrapper img {
-  height: 420px;
-  object-fit: cover;
-  width: 100%;
-}
+ .carousel-padding{
+    padding-left: 125px;
+    padding-right: 125px;
+    color:black;
+  }
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
